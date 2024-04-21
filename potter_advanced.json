@@ -1,0 +1,67 @@
+{
+    "characters": [
+        {
+            "name": "Harry Potter",
+            "birth year": 1980,
+            "address": {
+                "street": "4 Privet Drive",
+                "city": "Little Whinging",
+                "country": "England"
+            },
+            "has_magic_skills": true,
+            "hobbies": [
+                "quidditch",
+                "wizard chess"
+            ],
+            "school": "Hogwarts School of Witchcraft and Wizardry",
+            "house": "Gryffindor",
+            "best_friends": ["Ron Weasley", "Hermione Granger"]
+        },
+        {
+            "name": "Petunia Dursley",
+            "birth year": 1959,
+            "address": {
+                "street": "4 Privet Drive",
+                "city": "Little Whinging",
+                "country": "England"
+            },
+            "has_magic_skills": false,
+            "relationship_to_harry": "Aunt",
+            "attitude_towards_magic": "Disdainful"
+        },
+        {
+            "name": "Ron Weasley",
+            "birth year": 1980,
+            "address": {
+                "street": "The Burrow",
+                "city": "Ottery St Catchpole",
+                "country": "England"
+            },
+            "has_magic_skills": true,
+            "hobbies": [
+                "wizard chess",
+                "eating"
+            ],
+            "school": "Hogwarts School of Witchcraft and Wizardry",
+            "house": "Gryffindor",
+            "best_friends": ["Harry Potter", "Hermione Granger"]
+        },
+        {
+            "name": "Hermione Granger",
+            "birth year": 1979,
+            "address": {
+                "country": "England"
+            },
+            "has_magic_skills": true,
+            "hobbies": [
+                "reading",
+                "studying magic",
+                "advocating for house-elf rights"
+            ],
+            "school": "Hogwarts School of Witchcraft and Wizardry",
+            "house": "Gryffindor",
+            "best_friends": ["Harry Potter", "Ron Weasley"]
+        }
+    ]
+}
+

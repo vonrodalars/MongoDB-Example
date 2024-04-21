@@ -1,0 +1,28 @@
+{
+    "characters": [
+        {
+            "name": "Harry Potter",
+            "birth year": 1980,
+            "address": {
+                "street": "4 Privet Drive",
+                "city": "Little Whinging",
+                "country": "England"
+            },
+            "has_magic_skills": true,
+            "hobbies": [
+                "quidditch",
+                "wizard chess"
+            ]
+        },
+        {
+            "name": "Petunia Dursley",
+            "birth year": 1959,
+            "address": {
+                "street": "4 Privet Drive",
+                "city": "Little Whinging",
+                "country": "England"
+            },
+            "has_magic_skills": false
+        }
+    ]
+}
